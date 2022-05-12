@@ -1,0 +1,41 @@
+#base-info {
+    background-color:rgb(178, 222, 223);
+    padding: 20px;
+}
+
+#interests {
+    background-color: rgb(214, 212, 212);
+    padding: 20px;
+}
+
+#tech-stack {
+    background-color: rgb(178, 222, 223);
+    padding: 20px;
+}
+#animal {
+    background-color: rgb(214, 212, 212);
+    padding: 20px;
+}
+.col-md-10 {
+    font-size: 18px;
+}
+
+.col-lg-2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#interests-label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#tech-stack-label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#animal-label {
+    font-size: 20px;
+    font-weight: bold;
+}
